@@ -1,2 +1,2 @@
 # Python-
-Applications using python
+Web application using flask and integrating with SQL.
